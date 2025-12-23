@@ -1,0 +1,5 @@
+streamlit
+crewai
+pdfplumber
+openai
+pysqlite3-binary
